@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="kt.jereko.dev" type="Application" factoryName="Application">
+    <envs>
+      <env name="PORT" value="3002" />
+    </envs>
+    <option name="MAIN_CLASS_NAME" value="jereko.dev.MainKt" />
+    <module name="kl.jereko.dev" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
