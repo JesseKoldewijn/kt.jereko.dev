@@ -1,8 +1,6 @@
 package jereko.dev
 
-import com.fasterxml.jackson.annotation.JsonInclude
 import io.javalin.Javalin
-import io.javalin.json.JavalinJackson
 
 fun main() {
     val port = System.getenv("PORT")?.toIntOrNull() ?: 8080
